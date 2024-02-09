@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c407778479446104adf9995536d4324" label="Expenses" max_length="40" name="x_723649_church_0_expenses" type="collection">
+        <element label="Amount" mandatory="true" max_length="20" name="amount" type="currency"/>
+        <element label="Attachment" max_length="32" name="attachment" type="file_attachment"/>
+        <element choice="1" default="BYC Youth Ministry" function_definition="BYC Youth Ministry" label="Category" max_length="40" name="category" reference="sys_choice" type="choice">
+            <choice/>
+        </element>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="user" mandatory="true" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="attachment"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

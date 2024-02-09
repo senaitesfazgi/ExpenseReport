@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="75b573fc479446104adf9995536d43ab" sys_domain="global" table="x_723649_church_0_attachments" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expense</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-09 16:33:00</sys_created_on>
+            <sys_id>43d5333047d446104adf9995536d43e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-09 16:33:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-09 16:33:25</sys_created_on>
+            <sys_id>c9f5bb3047d446104adf9995536d4395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-09 16:33:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-09 16:34:20</sys_created_on>
+            <sys_id>6a26b37047d446104adf9995536d4354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-09 16:34:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>file</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-09 16:34:50</sys_created_on>
+            <sys_id>7946f73047d446104adf9995536d43d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-09 16:34:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_723649_church_0_attachments</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-09 16:32:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75b573fc479446104adf9995536d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_723649_church_0_attachments</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Church Expenses App" source="x_723649_church_0">155fa338479446104adf9995536d436c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Church Expenses App">155fa338479446104adf9995536d436c</sys_scope>
+            <sys_update_name>sys_ui_section_75b573fc479446104adf9995536d43ab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-09 16:32:22</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Church Expenses App">155fa338479446104adf9995536d436c</application>
+        <file_path/>
+        <instance_id>09e694badb2ec85042b321c405961901</instance_id>
+        <instance_name>dev98011</instance_name>
+        <name>sys_ui_section_75b573fc479446104adf9995536d43ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="75b573fc479446104adf9995536d43ab" sys_domain="global" table="x_723649_church_0_attachments" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>expense</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 16:33:00</sys_created_on><sys_id>43d5333047d446104adf9995536d43e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 16:33:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 16:33:25</sys_created_on><sys_id>c9f5bb3047d446104adf9995536d4395</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 16:33:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 16:34:20</sys_created_on><sys_id>6a26b37047d446104adf9995536d4354</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 16:34:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>file</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 16:34:50</sys_created_on><sys_id>7946f73047d446104adf9995536d43d3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_723649_church_0_attachments" sys_domain="global" view="Default view">75b573fc479446104adf9995536d43ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 16:34:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_723649_church_0_attachments</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-09 16:32:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>75b573fc479446104adf9995536d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_723649_church_0_attachments</sys_name><sys_overrides/><sys_package display_value="Church Expenses App" source="x_723649_church_0">155fa338479446104adf9995536d436c</sys_package><sys_policy/><sys_scope display_value="Church Expenses App">155fa338479446104adf9995536d436c</sys_scope><sys_update_name>sys_ui_section_75b573fc479446104adf9995536d43ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-09 16:32:22</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1745231044</payload_hash>
+        <record_name>Attachments</record_name>
+        <reverted_from/>
+        <source>155fa338479446104adf9995536d4389</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 16:34:50</sys_created_on>
+        <sys_id>bd46f73047d446104adf9995536d43d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d8eb8c4d60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 16:34:50</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>3546f73010d44610d35d36ee03a88ed5</update_guid>
+        <update_guid_history>3546f73010d44610d35d36ee03a88ed5:1745231044,6a26f370dfd44610a35e981ceb7d8e99:1321676674,05f5bb3041d446106942c8ecf693bf97:-1198824979,4fd53330c8d44610a9cd8b8105915ae2:-104372047,f1b573fc639446107d6c8a1a590066ae:527210686</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-09 17:02:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>32dab1936825464fb56df78e8c47f069</sys_id>
+        <sys_metadata>75b573fc479446104adf9995536d43ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_723649_church_0_attachments</sys_name>
+        <sys_package display_value="Church Expenses App" source="x_723649_church_0">155fa338479446104adf9995536d436c</sys_package>
+        <sys_parent display_value="">59b53b3047d446104adf9995536d430f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Church Expenses App">155fa338479446104adf9995536d436c</sys_scope>
+        <sys_scope_delete display_value="">036497569a6248cc8275f34c2ab46e10</sys_scope_delete>
+        <sys_update_name>sys_ui_section_75b573fc479446104adf9995536d43ab</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_75b573fc479446104adf9995536d43ab">bd46f73047d446104adf9995536d43d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-09 17:02:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
